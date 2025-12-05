@@ -13,4 +13,7 @@ Combino habilidades analíticas con una visión práctica para transformar datos
 ## [Proyectos](proyects/proyects.md)
 ## Contacto  
 **Pedro A Campos**  
-**[Linkedin](//linkedin.com/in/pedroangelc/)**  |  **[e-mail](mailto:pedroangelc@msn.com)**  |  **[Whatsapp](//wa.me/525510143383)**
+**[Linkedin](//linkedin.com/in/pedroangelc/)**  |  **[e-mail](mailto:pedroangelc@msn.com)**  |  **[Whatsapp](//wa.me/525510143383)**  
+
+![Mi imagen](MyPhoto.png)
+
