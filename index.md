@@ -1,4 +1,4 @@
-<div style="position: absolute; top: 10px; right: 10px;">
+<div style="top: 10px; right: 10px;">
   <h1>Portafolio Profesional de Pedro Campos</h1>
   <img src="MyPhoto.png" style="width:220px; height:auto; border-radius:8px;">
 </div>
