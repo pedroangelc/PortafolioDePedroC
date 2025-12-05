@@ -1,4 +1,4 @@
-# Venta general 2022 – Dashboard
+# Dashboard - Venta general de enero a agosto 2022
 
 ## Descripción
 Reporte de dos hojas con tableros interactivos que muestra una gráfica comparativa del total acumulado de la venta general de enero a agosto contra el año anterior.  
@@ -22,11 +22,12 @@ Botones interactivos que segmentan los datos por
 
 ## Screenshot
 <div style="top: 10px; right: 10px;">
-  <a href="Venta_general_Region-Gerencia.jpg" target="_blank">
-  <img src="Venta_general_Region-Gerencia.jpg" style="width:420px; height:auto; border-radius:8px;">
+  <a href="VentaGeneral2022agosto.png" target="_blank">
+  <img src="VentaGeneral2022agosto.png" style="width:420px; height:auto; border-radius:8px;">
   </a>
 </div>
 
+[Abrir archivo <i>online</i>](https://1drv.ms/x/c/95cfc766c099b238/EcmUzNbRe1hEq1sWKSvzwNUBYR2ix4JjrgZt7NeaCkl4Cg?e=ldXf8T)  
 [Descargar archivo ](/VentaGeneral2022agosto.xlsx)
 
 ## [← Regresar a Proyectos/Excel](../Excel/index.md)
