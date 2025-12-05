@@ -1,4 +1,11 @@
-# Portafolio profesional de Pedro Campos
+<div style="position: absolute; top: 10px; right: 10px;">
+  <h1>Portafolio Profesional de Pedro Campos</h1>
+  <img src="MyPhoto.png" style="width:220px; height:auto; border-radius:8px;">
+</div>
+
+
+
+
 
 Bienvenido a mi portafolio profesional, donde presento proyectos desarrollados con Excel, Power BI y SQL enfocados en análisis de datos, automatización de procesos y generación de insights para la toma de decisiones estratégicas.
 
